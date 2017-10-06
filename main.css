@@ -12,12 +12,13 @@
 }
 .navlist{
 	/*background: yellow;*/
-	padding:0 30px;
+	/*padding:0 30px;*/
 	font-family: "BPG Nino Mtavruli", sans-serif;
 
 /*	vertical-align: middle;
 */}
 .navlist a{
+	padding: 0 30px 0 0;
 	text-decoration: none
 }
 .navlist p{
